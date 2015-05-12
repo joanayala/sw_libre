@@ -1,4 +1,4 @@
 <?php
 	info();
-	echo "Bienvenidos";
+	echo "Bienvenidos a nuestra primera app PHP en GitHub";
 ?>
