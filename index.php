@@ -1,5 +1,5 @@
 <?php
-	echo "Bienvenidos a nuestra primera app PHP en GitHub";
+	
 ?>
 <html>
 	<head>
